@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AhmedSabrye
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React Advanced
-- 💞️ I’m looking to collaborate on Web Application
-- 📫 How to reach me on X/Twitter : https://x.com/AhmedSabryFr
+- 💻 I’m passionate about Frontend Development
+- 🚀 Currently leveling up my skills in Advanced React
+- 🤝 Looking to collaborate on innovative Web Applications
+- 📩 Reach me on X/Twitter: AhmedSabryFr
 - 😄 Pronouns: Sabry
-- ⚡ Fun fact: For two years, I’ve embraced the chill: not a single warm bath for me!
+- ❄️ Fun fact: For 2 years, I’ve embraced the chill—not a single warm bath for me! 🛁🧊
 
 <!---
 AhmedSabrye/AhmedSabrye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
