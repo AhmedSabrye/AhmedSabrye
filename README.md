@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpyYzlicWV3YzUxZXVtbm1qczBqbmt5M205N3FzaThla3JzeG5mZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif" width="200" alt="coding">
 </p>
+
 
 <h1 align="center">Hey there! I’m Ahmed Sabry 👋</h1>
 <p align="center"><em>Frontend Developer (React) | Runner </em></p>
