@@ -34,10 +34,6 @@ When I'm not at work, I'm shipping my own ideas - LaQta and Attendo started as p
 
 </div>
 
-### Beyond Code
-
-I run 10Ks to clear my head. I speak Arabic and English.
-
 ### Let's Connect
 
 <div align="center">
